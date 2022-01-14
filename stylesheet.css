@@ -11,7 +11,7 @@ nav {
 	font-family: ;
 	background: #D3D3D3;
 	display: flex;
-	justify-content:space-between;
+	justify-content: space-between;
 	padding: 15px;
 	margin-right: 20px;
 	margin-left: 20px;
@@ -21,3 +21,18 @@ nav {
 	
 	
 }
+.container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.mainLinks {
+	display: flex;
+	flex-direction: row;
+	font-size: 1.5rem;
+}
+
+ul {
+	list-style: none;	
+}
+
